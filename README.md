@@ -4,7 +4,7 @@
 
 [Test Reports](https://github.com/MarkDuenas/basic-express-server/actions)
 
-[Deployed Link](heroku.com);
+[Deployed Link](https://basic-express-md.herokuapp.com/);
 
 
 ## Set up
