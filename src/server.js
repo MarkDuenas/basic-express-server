@@ -9,11 +9,12 @@ const validator = require('./middleware/validator');
 const errors = require('./error-handlers/500.js');
 const notFound = require('./error-handlers/404.js');
 
+app.use()
 app.use(logger);
 
 
 app.get('/person', validator, (req, res) => {
-  res.json(req.query.name)  
+  res.status(200).json(req.query.name);  
 })
 
 

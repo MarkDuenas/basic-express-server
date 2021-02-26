@@ -3,6 +3,7 @@
 ### Author: Mark Duenas
 
 [Test Reports](https://github.com/MarkDuenas/basic-express-server/actions)
+
 [Deployed Link](heroku.com);
 
 
@@ -24,4 +25,4 @@
     - Server Tests: `npm run test`
   
   ### UML
-  
+  ![LAB02](./lab02.png)

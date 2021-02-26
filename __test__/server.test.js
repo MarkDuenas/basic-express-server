@@ -32,6 +32,6 @@ describe('*** API SERVER ***', () => {
     .then(results => {
       expect(results.status).toBe(200);
     })
-  })
+  });
 
 })
