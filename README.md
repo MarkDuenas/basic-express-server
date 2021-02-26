@@ -6,7 +6,7 @@
 
 [Deployed Link](https://basic-express-md.herokuapp.com/)
 
-[Pull Req](https://github.com/MarkDuenas/basic-express-server/pull/2)
+[Pull Req](https://github.com/MarkDuenas/basic-express-server/pull/3)
 
 
 ## Set up
