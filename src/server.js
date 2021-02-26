@@ -9,7 +9,6 @@ const validator = require('./middleware/validator');
 const errors = require('./error-handlers/500.js');
 const notFound = require('./error-handlers/404.js');
 
-app.use()
 app.use(logger);
 
 
