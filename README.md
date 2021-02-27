@@ -12,12 +12,14 @@
 ## Set up
 
 `.env` requirements
-  - `PORT` - Port Number
+
+  - PORT - Port Number
 
   ### Running the app
     - npm start
-    - Endpoint: `/person?name=YOURNAMEHERE`
+    - Endpoint: /person?name=YOURNAMEHERE
       - Returns JSON Object
+
         ```
         {
           "name":"Jack"
